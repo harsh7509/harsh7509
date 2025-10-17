@@ -1,3 +1,7 @@
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh7509&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=harsh7509&label=Profile%20views&color=blue&style=flat)
+
+
 # 👋 Hi, I'm Harsh Kumar
 
 🚀 **DevOps Engineer | MERN Developer | Cloud Enthusiast**  
