@@ -28,10 +28,9 @@ Building scalable cloud infrastructure, automating CI/CD, and developing full-st
 | Project | Description | Stack |
 |----------|--------------|--------|
 | [**Eastri**](https://github.com/harsh7509/Eastri) | AWS EC2 + Jenkins + Docker DevOps automation | AWS, Jenkins, Docker |
-| [**ArenaPulse**](https://github.com/harsh7509/ArenaPulse) | Full-stack esports platform (MERN + Socket.IO) | MERN, Socket.IO |
-| [**E-Commerce Deployment**](https://github.com/harsh7509/Ecommerce-Deployment) | CI/CD pipeline with Docker + Kubernetes + Terraform | DevOps |
-| [**Freakthetix**](https://github.com/harsh7509/Freakthetix.git) | Ecommerce Gymwear website built with Next.js + Vercel | Frontend | Backend |
-| [**Portfolio**](https://github.com/harsh7509/Portfolio) | Personal website built with Next.js + Vercel | Frontend |
+| [**ArenaPulse**](https://thearenapulse.xyz/) | Full-stack esports platform (MERN + Socket.IO) | MERN, Socket.IO |
+| [**Freakthetix**](https://www.freakthetix.com/) | Ecommerce Gymwear website built with Next.js + Vercel | Frontend | Backend |
+| [**Portfolio**](https://github.com/harsh7509/Profile) | Personal website built with Next.js + Vercel | Frontend |
 
 ---
 
